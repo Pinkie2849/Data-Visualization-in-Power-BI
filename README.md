@@ -86,7 +86,7 @@ Starting with **Excel dashboards**, the project builds a foundation for transiti
 
 ---
 
-## 📷 Preview *(Optional)*
+## 📷 Preview
 
 _<img width="1213" height="678" alt="image" src="https://github.com/user-attachments/assets/b7352236-0313-447d-83c1-28b41b3623fc" />
 
